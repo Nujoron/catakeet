@@ -1,0 +1,43 @@
+.logo
+{
+  float: left;
+    width: 10%;
+   height:15%;
+}
+.back{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+    text-shadow: 10px;
+    text-size-adjust: 30px;
+    font-size: large;
+   
+}
+.form{
+
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: orange;
+    font-size: medium;
+
+}
+.input{
+    margin: 20px 20px;
+}
+
+.footer{
+
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+    margin: 50px ;
+}
+.text{
+    font-size: larger;
+    
+}

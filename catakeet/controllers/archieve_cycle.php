@@ -1,0 +1,1 @@
+// when cycle ended data counsumed and saved as statistics // mybe 
